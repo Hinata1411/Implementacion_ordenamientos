@@ -6,6 +6,8 @@ namespace _3
     {
         static void Main(string[] args)
         {
+            //Ordenamiento Inserción directa
+            
             Console.WriteLine("Lista de números no ordenados");
             int[] lista = {38, 23, 54, 93, 12, 4, 21, 3, 95, 14, 53, 89, 78, 67};
             mostrar(lista);
