@@ -6,6 +6,7 @@ namespace Burbuja
     {
         static void Main(string[] args)
         {
+            //Ordenamiento Burbuja
             Console.WriteLine("Números a ordenar ");
             int[] lista = { 39, 23, 43, 34, 35, 90, 1, 9, 10, 29, 45, 22, 100};
             mostrar(lista);
