@@ -6,6 +6,7 @@ namespace _2
     {
         static void Main(string[] args)
         {
+            //Ordenamiento Quick Sort 
             Console.WriteLine("Lista de números");
             int[] lista = {40, 22, 7, 10, 77, 80, 96, 3, 14, 11};
             mostrar(lista);
